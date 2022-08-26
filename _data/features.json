@@ -1,7 +1,7 @@
 [
   {
-    "title": "Leiden University Medical Center (LUMC)",
-    "description": "A few words about their participation in the project ",
+    "title": "Leiden University Medical Center",
+    "description": "In collaboration with Leiden University Medical Center, we aim to understand the socio-economic determinants of Covid spread.",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/1239865042486558726/MSwXg_tU_400x400.jpg",
       "width": 80,
@@ -9,17 +9,17 @@
     }
   },
   {
-    "title": "Municipality of The Hague - Den Haag",
-    "description": "A few words about their participation in the project",
+    "title": "GGD Haaglanden",
+    "description": "GGD Haaglanden helps us to fine-tune research questions to be of greater relevance to society.",
     "image": {
-      "url": "https://www.nationsonline.org/gallery/Flags/Den-Haag-Seal.jpg",
+      "url": "https://gezondheidsgids.ggdhaaglanden.nl/style/custom/gmhaaglanden/images/logo.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Centraal Bureau voor de Statistiek",
-    "description": "A few words about their participation in the project",
+    "title": "Statistics Netherlands",
+    "description": "Together with Statistics Netherlands, we analyse the importance of open versus micro data.",
     "image": {
       "url": "https://www.cbs.nl/content/images/cbs-brand.svg",
       "width": 80,
