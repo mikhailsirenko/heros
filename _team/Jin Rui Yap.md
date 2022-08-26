@@ -2,7 +2,7 @@
 title: "Jin Rui Yap"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "../images/team/Jin.jpeg"
+image: "https://github.com/mikhailsirenko/heros/blob/main/images/team/Jin.jpeg"
 jobtitle: "PhD candidate, TU Delft"
 linkedinurl: "https://www.linkedin.com/in/jryap8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABG6nVkBtfgX9RePsOh2PNQS17_glZlTdKU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BV1V%2FwcBKR%2F%2BHQecVi3EAJA%3D%3D"
 promoted: true
