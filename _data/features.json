@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Leiden University Medical Center (LUMC)",
+    "description": "A few words about their participation in the project ",
+    "image": {
+      "url": "https://pbs.twimg.com/profile_images/1239865042486558726/MSwXg_tU_400x400.jpg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Municipality of The Hague - Den Haag",
+    "description": "A few words about their participation in the project",
+    "image": {
+      "url": "https://www.nationsonline.org/gallery/Flags/Den-Haag-Seal.jpg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Centraal Bureau voor de Statistiek",
+    "description": "A few words about their participation in the project",
+    "image": {
+      "url": "https://www.cbs.nl/content/images/cbs-brand.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
