@@ -20,7 +20,7 @@ between April 2020 and 2023.
 
 [Check the project page](https://www.heros-project.eu/) for more information.
 
-## HERoS at TU Delft TPM Resilience Lab
+## HERoS @ TU Delft TPM Resilience Lab
 
 At the TPM Resilience lab, we are looking at the urban health emergency system through the lens of epidemiological and
 behavioural modelling. We are building an agent-based model using open data and open source software to devise

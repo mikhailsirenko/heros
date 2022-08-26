@@ -2,7 +2,7 @@
 title: "Sahiti Sarva"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "https://media-exp1.licdn.com/dms/image/C4E03AQHtv5veBGN4BQ/profile-displayphoto-shrink_400_400/0/1516465153765?e=1657756800&v=beta&t=VPtR8lVDhUKwHaOszdaIngn_buXPtWlbwyNoYqeo93s"
+image: "../images/team/Sahiti.jpg"
 jobtitle: "Research Analyst, UNDP"
 linkedinurl: "https://www.linkedin.com/in/sahitisarva?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA9fuZcBA3aM-Z_3S5i1hvfuKFzK4Yt4n70&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B0oBb6dBUR4i%2Bo6WLwce8PQ%3D%3D"
 promoted: true

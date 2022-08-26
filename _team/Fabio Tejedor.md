@@ -2,7 +2,7 @@
 title: "Fabio Tejedor"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "https://drive.google.com/uc?id=1Ppn9k2nH53YFCnKqWRBhxHHWrAQomX39"
+image: "../images/team/Fabio.jpeg"
 jobtitle: "PhD Urban Economics, Wageningen University and Research"
 linkedinurl: "https://www.linkedin.com/in/fabio-tejedor-26b9a135?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAdxbjMBUdkaeKQTGMErWLmIl4tXcBUsHJU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B99E61jqbSFCHqPEjlgVpzg%3D%3D"
 promoted: true

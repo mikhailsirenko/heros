@@ -2,7 +2,7 @@
 title: "Anmol Soni"
 date: 2018-12-28T13:44:55+10:00
 draft: false
-image: "https://media-exp1.licdn.com/dms/image/C4E03AQEgh4YGkg9RFQ/profile-displayphoto-shrink_400_400/0/1647509319805?e=1657756800&v=beta&t=QXDsGr3yHUbnpXqBKzRhVbjvmg2NSiBlXRg4Z5z3h-s"
+image: "../images/team/Anmol.jpeg"
 jobtitle: "Master student, TU Delft"
 linkedinurl: "https://www.linkedin.com/in/a-soni/"
 promoted: true

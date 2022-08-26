@@ -2,7 +2,7 @@
 title: "Srijith Balakrishnan"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "https://drive.google.com/uc?id=1Bmu5Uix4Xa_PWQYlflA0RtIbtNbBBXF0"
+image: "../images/team/Srijith.png"
 jobtitle: "Postdoctoral Researcher, Singapore-ETH Centre"
 linkedinurl: "https://www.linkedin.com/in/a-soni/"
 promoted: true
