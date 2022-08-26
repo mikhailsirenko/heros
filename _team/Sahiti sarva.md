@@ -2,7 +2,7 @@
 title: "Sahiti Sarva"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "https://github.com/mikhailsirenko/heros/blob/main/images/team/Sahiti.jpg"
+image: "https://github.com/mikhailsirenko/heros/blob/main/images/team/Sahiti.jpg?raw=true"
 jobtitle: "Research Analyst, UNDP"
 linkedinurl: "https://www.linkedin.com/in/sahitisarva?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA9fuZcBA3aM-Z_3S5i1hvfuKFzK4Yt4n70&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B0oBb6dBUR4i%2Bo6WLwce8PQ%3D%3D"
 promoted: true

@@ -2,7 +2,7 @@
 title: "Anmol Soni"
 date: 2018-12-28T13:44:55+10:00
 draft: false
-image: "https://github.com/mikhailsirenko/heros/blob/main/images/team/anmol.jpeg"
+image: "https://github.com/mikhailsirenko/heros/blob/main/images/team/anmol.jpeg?raw=true"
 jobtitle: "Master student, TU Delft"
 linkedinurl: "https://www.linkedin.com/in/a-soni/"
 promoted: true
